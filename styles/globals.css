@@ -13,13 +13,3 @@
     --foreground: #ededed;
   }
 }
-
-body.light {
-  background-color: #ffffff; /* Fundo claro */
-  color: #000000; /* Texto escuro */
-}
-
-body.dark {
-  background-color: #222; /* Fundo escuro */
-  color: #ffffff; /* Texto claro */
-}

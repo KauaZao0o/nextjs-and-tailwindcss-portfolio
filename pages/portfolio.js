@@ -51,42 +51,48 @@ export default function Portfolio() {
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Front-end</p>
               <div className="flex gap-4">
-                <i className="devicon-html5-plain text-4xl text-[#54B689]"></i>
-                <i className="devicon-css3-plain text-4xl text-[#54B689]"></i>
-                <i className="devicon-javascript-plain text-4xl text-[#54B689]"></i>
+                <img src="/caminho/html.png" alt="HTML" className="w-10 h-10" />
+                <img src="/caminho/css.png" alt="CSS" className="w-10 h-10" />
+                <img src="/caminho/javascript.png" alt="JavaScript" className="w-10 h-10" />
               </div>
             </div>
+            
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Back-end</p>
               <div className="flex gap-4">
-                <i className="devicon-python-plain text-4xl text-[#54B689]"></i>
-                <i className="devicon-php-plain text-4xl text-[#54B689]"></i>
-                <i className="devicon-c-plain text-4xl text-[#54B689]"></i>
+                <img src="/caminho/python.png" alt="Python" className="w-10 h-10" />
+                <img src="/caminho/php.png" alt="PHP" className="w-10 h-10" />
+                <img src="/caminho/c.png" alt="C" className="w-10 h-10" />
               </div>
             </div>
+            
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Databases</p>
               <div className="flex gap-4">
-                <i className="devicon-mariadb-plain text-4xl text-[#54B689]"></i>
-                <i className="devicon-mysql-plain text-4xl text-[#54B689]"></i>
+                <img src="/caminho/mariadb.png" alt="MariaDB" className="w-10 h-10" />
+                <img src="/caminho/mysql.png" alt="MySQL" className="w-10 h-10" />
               </div>
             </div>
+            
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Front-end Frameworks</p>
               <div className="flex gap-4">
-                <i className="devicon-react-plain text-4xl text-[#54B689]"></i>
+                <img src="/caminho/react.png" alt="React" className="w-10 h-10" />
+                <img src="/caminho/nextjs.png" alt="Next.js" className="w-10 h-10" />
               </div>
             </div>
+
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Back-end Frameworks</p>
               <div className="flex gap-4">
-                <i className="devicon-laravel-plain text-4xl text-[#54B689]"></i>
+                <img src="/caminho/laravel.png" alt="Laravel" className="w-10 h-10" />
               </div>
             </div>
+
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Tools</p>
               <div className="flex gap-4">
-                <i className="devicon-linux-plain text-4xl text-[#54B689]"></i>
+                <img src="/caminho/linux.png" alt="Linux" className="w-10 h-10" />
               </div>
             </div>
           </div>
