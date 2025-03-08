@@ -51,48 +51,48 @@ export default function Portfolio() {
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Front-end</p>
               <div className="flex gap-4">
-                <img src="/caminho/html.png" alt="HTML" className="w-10 h-10" />
-                <img src="/caminho/css.png" alt="CSS" className="w-10 h-10" />
-                <img src="/caminho/javascript.png" alt="JavaScript" className="w-10 h-10" />
+                <img src="img/PL-icons/HTML.png" alt="HTML" className="w-10 h-10" />
+                <img src="img/PL-icons/CSS.png" alt="CSS" className="w-10 h-10" />
+                <img src="img/PL-icons/JavaScript.png" alt="JavaScript" className="w-10 h-10" />
               </div>
             </div>
             
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Back-end</p>
               <div className="flex gap-4">
-                <img src="/caminho/python.png" alt="Python" className="w-10 h-10" />
-                <img src="/caminho/php.png" alt="PHP" className="w-10 h-10" />
-                <img src="/caminho/c.png" alt="C" className="w-10 h-10" />
+                <img src="img/PL-icons/Python.png" alt="Python" className="w-10 h-10" />
+                <img src="img/PL-icons/PHP.png" alt="PHP" className="w-12 h-10" />
+                <img src="img/PL-icons/C.png" alt="C" className="w-10 h-10" />
               </div>
             </div>
             
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Databases</p>
               <div className="flex gap-4">
-                <img src="/caminho/mariadb.png" alt="MariaDB" className="w-10 h-10" />
-                <img src="/caminho/mysql.png" alt="MySQL" className="w-10 h-10" />
+                <img src="img/PL-icons/MariaDB.png" alt="MariaDB" className="w-10 h-10" />
+                <img src="img/PL-icons/MySQL.png" alt="MySQL" className="w-13 h-10" />
               </div>
             </div>
             
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Front-end Frameworks</p>
               <div className="flex gap-4">
-                <img src="/caminho/react.png" alt="React" className="w-10 h-10" />
-                <img src="/caminho/nextjs.png" alt="Next.js" className="w-10 h-10" />
+                <img src="img/PL-icons/React.png" alt="React" className="w-10 h-10" />
+                <img src="img/PL-icons/Nextjs.png" alt="Next.js" className="w-10 h-10" />
               </div>
             </div>
 
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Back-end Frameworks</p>
               <div className="flex gap-4">
-                <img src="/caminho/laravel.png" alt="Laravel" className="w-10 h-10" />
+                <img src="img/PL-icons/Laravel.png" alt="Laravel" className="w-10 h-10" />
               </div>
             </div>
 
             <div className="flex-1 min-w-[200px]">
               <p className="text-2xl mb-4 border-l-4 border-[#54B689] pl-2">Tools</p>
               <div className="flex gap-4">
-                <img src="/caminho/linux.png" alt="Linux" className="w-10 h-10" />
+                <img src="img/PL-icons/linux.png" alt="Linux" className="w-10 h-10" />
               </div>
             </div>
           </div>
